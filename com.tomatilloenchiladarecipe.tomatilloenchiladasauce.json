@@ -20,25 +20,25 @@
       "link_redirect": "https://"
     }
   ],
-  "More":
+ "More":
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Basque Burnt Cheesecake Recipe",
+      "image":"https://i.pinimg.com/originals/b3/35/57/b33557bfc757244fd96cc9a0359ae1e3.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.basquecheesecake.basqueburntcheesecake"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Pumpkin Seeds Recipe",
+      "image":"https://cookieandkate.com/images/2020/10/best-roasted-pumpkin-seeds-recipe-2-550x824.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.pumpkinseedrecipe.bestpumpkinseedrecipe"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Chili Recipe",
+      "image":"https://play-lh.googleusercontent.com/5pZ6JSpqn3DHJ4xI7ICvQCArqTThteyvPzj1jeMmK2Jrd-suIbOCQCeH304bVrNbaRs=w1366-h625-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.chilirecipe.bestchilirecipe"
     }
   ],
 
@@ -65,28 +65,36 @@
 
   "Data": [
     {
-      "id": 1,
+      "id": 5,
       "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_1.html"
+      "title": "Hot Honey Recipe (Spicy Honey)",
+      "image": "https://cdn.shortpixel.ai/spai/w_741+q_lossy+ret_img+to_webp/https://casualfoodist.com/wp-content/uploads/2020/12/Homemade-Hot-Honey-Recipe-6.jpg",
+      "description": "Spicy, sweet and addictive hot honey is a delicious condiment and easy to make at home.",
+      "link": "https://luluilmaknun023.github.io/hothoneysaucerecipe/Hot%20Honey%20Recipe%20(Spicy%20Honey).html"
     },
     {
-      "id": 2,
+      "id": 4,
       "name_category": "Easy",
-      "title": "Trik Tersembunyi Lord Mobile MON",
-      "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
-      "link": "<p>Indoesports League Mobile menggelar turnamen game PUBG Mobile, Indoesports League Mobile x Game.ly PUBG Mobile. Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.</p>\r\n\r\n<p>Seperti diketahui, Indonesia tengah menjadi sorotan di kalangan PUBGM Global lewat prestasi yang baru-baru ini diraih sebagai Juara Dunia PUBG Mobile. Kemenangan dicapai oleh Bigetron RA yang digawangi oleh Luxxy, Zuxxy, Ryzen dan Microboy.</p>\r\n\r\n<p><img alt=\"\" src=\"https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg\" style=\"height:360px; width:640px\" /></p>\r\n\r\n<p>Kesuksesan 4 anak muda ini tentunya tak diraih secara instan. Ratusan bahkan ribuan pertandingan telah mereka tempuh sejak berkarir sebagai pro-player di dunia PUBG Mobile.</p>\r\n\r\n<p>Berkali-kali mengikuti pertandingan mulai dari skala kecil, menengah, nasional hingga internasional serta bertemu dengan player-player terbaik dari berbagai penjuru dunia.</p>\r\n\r\n<p>Berikut ini jadwal turnamen Indoesports League Mobile x Game.ly PUBG Mobile.</p>\r\n\r\n<p>Open Registration : 16 Januari 2020 &ndash; 26 Januari 2020</p>\r\n\r\n<p>Technical Meeting : 27 Januari 2020</p>\r\n\r\n<p>Babak Match : 28 &ndash; 30 Januari 2020</p>\r\n\r\n<p>Grand Final : 31 Januari 2020</p>\r\n\r\n<p>Tempat : Online di seluruh Indonesia</p>\r\n\r\n<p>Update berita dan informasi turnamen, serta halaman untuk mendaftar dapat diakses di website dan Instagram Indoesports.</p>\r\n"
+      "title": "Hot Honey Sauce Recipe",
+      "image": "https://i0.wp.com/delicerecipes.com/wp-content/uploads/2021/02/Hot-Honey-Sauce.jpg?fit=1170%2C1560&ssl=1",
+      "description": "Hot Honey Sauce infused with spicy peppers is a new kind of add-in to some of your recipes.",
+      "link": "https://luluilmaknun023.github.io/hothoneysaucerecipe/Hot%20Honey%20Sauce%20Recipe.html"
     },
     {
       "id": 3,
       "name_category": "Medium",
-      "title": "Mobile Legend Update",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_2.html"
+      "title": "Hot Honey Wing Sauce Recipe",
+      "image": "https://thenovicechefblog.com/wp-content/uploads/2021/04/Hot-Honey-Butter-Wings-in-the-Air-Fryer-1-600x900.jpeg",
+      "description": "This easy recipe takes just 20 minutes and you'll get the crispiest, juiciest, flavor packed wings every time.",
+      "link": "https://luluilmaknun023.github.io/hothoneysaucerecipe/Hot%20Honey%20Wing%20Sauce%20Recipe.html"
+    },
+	{
+      "id": 2,
+      "name_category": "Medium",
+      "title": "Sweet & Spicy Sriracha Sauce Recipe",
+      "image": "https://easysaucerecipes.com/wp-content/uploads/2021/04/honey-sriracha-sauce-carousel-360x360.jpg",
+      "description": "It's a simple sauce recipe that's perfect for chicken, beef, and even roasted vegetables.",
+      "link": "https://luluilmaknun023.github.io/hothoneysaucerecipe/Sweet%20&%20Spicy%20Sriracha%20Sauce%20Recipe.html"
     }
   ]
 }
